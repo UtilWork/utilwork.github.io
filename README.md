@@ -14,4 +14,11 @@ accunt: 须和账号一样
 1、验证基于服务器运行的ji脚本是否可行
 
 ## 安装yarn: npm install yarn -g
+设置仓库：
+yarn config set registry https://registry.npm.taobao.org -g
+yarn config set sass_binary_site http://cdn.npm.taobao.org/dist/node-sass -g
+
 ## 添加express服务器：yarn add express --save
+
+# 安装TypeScript
+yarn global add typescript
