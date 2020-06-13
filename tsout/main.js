@@ -1,7 +1,5 @@
-"use strict";
-exports.__esModule = true;
-var vue_1 = require("vue");
-var app = new vue_1["default"]({
+import Vue from "vue";
+var app = new Vue({
     el: '#app',
     data: {
         message: 'Hello Vue!222'

@@ -20,5 +20,10 @@ yarn config set sass_binary_site http://cdn.npm.taobao.org/dist/node-sass -g
 
 ## 添加express服务器：yarn add express --save
 
-# 安装TypeScript
-yarn global add typescript
+# 安装TypeScript: yarn global add typescript
+typescript只是进行了编码，不会进行模块加载
+
+
+# 安装webpack: yarn add webpack --save
+
+webpack.config.js
