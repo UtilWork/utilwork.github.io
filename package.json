@@ -3,7 +3,7 @@
     "server": "node ./server/express.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "vue": "^2.6.11",
     "webpack": "^4.43.0"
   }
